@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "a6fe875991de6b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "508149010156438d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cdb32448f9535ed",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ZZ_ING/Pasted image 20250730071041.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250730071041"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcb140f159b7cf41",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e3a045787ec4d7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b7927f32f4188e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0fbe641b1e8911d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fdb90c879834d716",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 540.5
+  },
+  "right": {
+    "id": "f330a5b8dc4a0f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7983a801373dcc9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db487ef09d06b132",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ZZ_ING/Pasted image 20250730071041.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20250730071041"
+            }
+          },
+          {
+            "id": "4e0da6e58776af10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ZZ_ING/Pasted image 20250730071041.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20250730071041"
+            }
+          },
+          {
+            "id": "8089e254cd91bdd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "229226790d289b5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ZZ_ING/Pasted image 20250730071041.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20250730071041"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8cdb32448f9535ed",
+  "lastOpenFiles": [
+    "NumberTheory/Divisibility-GreatestCommonDivisor_TODO.md",
+    "NumberTheory/Divisibility-BeattySequences_TODO.md",
+    "Game theory/CombinatorialGameTheory_TODO.md",
+    "Combinatorics/Combinatorics-sequences_TODO.md",
+    "Algebra/Algebra-FunctionalEquations_TODO.md",
+    "NumberTheory/*Divisibility-GreatestCommonDivisor.md",
+    "NumberTheory/*Divisibility-BeattySequences.md",
+    "Game theory/*CombinatorialGameTheory.md",
+    "Combinatorics/GeomtericCombinatorics-SunnyLines.md",
+    "Algebra/Algebra-Inequalities_Symmetric&Homogeneous.md",
+    "Algebra/*Algebra-FunctionalEquations.md",
+    "Combinatorics/Combinatorics-Coverings&Tilings.md",
+    "Combinatorics/*Combinatorics-sequences.md",
+    "Algebra/*Algebra-Functional Equations.md",
+    "ZZ_ING/Pasted image 20250730071854.png",
+    "Algebra/*Algebra - Functional Equations.md",
+    "ZZ_ING/Pasted image 20250730073500.png",
+    "ZZ_ING/Pasted image 20250730073443.png",
+    "ZZ_ING/Pasted image 20250730073424.png",
+    "ZZ_ING/Pasted image 20250730073413.png",
+    "ZZ_ING/Pasted image 20250730073309.png",
+    "Game theory/*Combinatorial game theory.md",
+    "Geometry/Euclidean Geometry.md",
+    "ZZ_ING/Pasted image 20250730072519.png",
+    "ZZ_ING/Pasted image 20250730072502.png",
+    "ZZ_ING/Pasted image 20250730072449.png",
+    "ZZ_ING/Pasted image 20250730072432.png",
+    "Combinatorics/*Combinatorics - sequences.md",
+    "NumberTheory/*Divisibility - Greatest Common Divisor.md",
+    "NumberTheory/*Divisibility-Beatty sequences.md",
+    "NumberTheory/*Divisibility - Beatty sequences.md",
+    "ZZ_ING",
+    "NumberTheory/Divisibility-dividers.md"
+  ]
+}
